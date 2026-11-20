@@ -32,3 +32,7 @@ Las fechas especiales se muestran como una guía con franjas del convenio descri
 ## Datos de versiones anteriores
 
 Esta versión usa una clave local nueva (`alltoone_v2`) y **no migra automáticamente los datos de prueba de versiones anteriores**. No borres el almacenamiento del navegador anterior si necesitas conservarlos. Solicita una migración específica antes de reemplazar datos importantes.
+
+
+## Versión 2.1
+En Convivencia, pulsa un día para editar directamente quién tiene a Enzo, guardar un cambio puntual o restablecer la asignación según el calendario. Se conserva el almacenamiento local `alltoone_v2` de la versión 2.0.
